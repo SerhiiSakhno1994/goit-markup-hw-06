@@ -524,7 +524,7 @@ body {
 /* SIGNUP form */
 
 .signup {
-  margin-left: 93px;
+  margin-left: auto;
 }
 
 .signup-label {
